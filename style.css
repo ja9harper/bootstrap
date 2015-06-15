@@ -1,0 +1,16 @@
+.pdsa-sn-wrapper {
+	position: absolute;
+	top: 3.6em;
+	left: 0em;
+	width: 13 em;
+	height: 100%
+	background-color: black;
+
+}
+.pdsa-sn-wrapper ul {
+	width: 11em;
+	list-style: none;
+	margin-top: 2em;
+	margin-left: 1em;
+	padding: 0em;
+}
